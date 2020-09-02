@@ -1,0 +1,246 @@
+﻿div h2 {
+    font: normal 18px arial;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+form {
+    text-align: center;
+}
+
+.aroundsb {
+    text-align: left;
+    display: flex;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    z-index: 3;
+    height: 44px;
+    margin: 0 auto;
+    width: 482px;
+}
+
+    .aroundsb:hover {
+        box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+        border-color: rgba(223,225,229,0)
+    }
+
+div input {
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+    div input:hover {
+        border: 1px solid gray;
+        border-image: initial
+    }
+ .tlh {
+    font: normal 18px arial;
+    background-color: lightgray;
+    margin: unset;
+
+}
+ div h2 {
+     padding-bottom:10px;
+     padding-top:10px;
+ }
+
+h1 {
+    font-family: 'Arial Narrow', sans-serif;
+    font-style: normal;
+    font-size: 25px;
+    color: red;
+    margin-left: 0px;
+    border-bottom: solid;
+    border-bottom-color: lightgray;
+}
+
+.jfk-button {
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    white-space: nowrap;
+    margin-right: 16px;
+    height: 27px;
+    line-height: 27px;
+    min-width: 54px;
+    outline: 0;
+    user-select: none;
+    line-height: 100%;
+    height: 30px;
+    border: 1px solid #2f5bb7;
+    border-image: initial;
+    min-width: 120px;
+    color: white;
+    background-color: #4d90fe;
+    float: right;
+    margin-right: 30%;
+}
+
+.jfk-button-action:hover {
+    background-color: #357ae8;
+    background-image: -webkit-linear-gradient(top,#4d90fe,#357ae8);
+    background-image: -moz-linear-gradient(top,#4d90fe,#357ae8);
+    background-image: -o-linear-gradient(top,#4d90fe,#357ae8);
+    background-image: linear-gradient(top,#4d90fe,#357ae8);
+    border: 1px solid #2f5bb7;
+    border-image: initial
+}
+
+.jfk-textinput {
+    border-radius: 1px;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+    font-size: 13px;
+    height: 25px;
+    padding: 1px 8px
+}
+
+    .jfk-textinput:focus {
+        box-shadow: inset 0 1px 2px rgba(0,0,0,0.3);
+        border: 1px solid #4d90fe;
+        outline: none
+    }
+
+    .jfk-textinput::-ms-clear {
+        display: none
+    }
+
+div.otByu {
+    width: 100%;
+    clear: both;
+    font-family: Arial
+}
+
+    div.otByu div.yIQOUb {
+        clear: both
+    }
+
+    div.otByu div.I1Kbt, div.lFApYd {
+        float: left;
+        display: inline-block;
+        min-width: 167px;
+        width: 16%;
+        font-size: 16px;
+        height: 42px;
+        font-weight: 500;
+        color: #333;
+        vertical-align: middle
+    }
+
+    div.otByu div.HoCfzc {
+        float: left;
+        display: inline-block;
+        min-width: 167px;
+        min-height: 41px;
+        vertical-align: middle;
+        width: 50%
+    }
+
+    div.otByu div.orcpGe {
+        float: left;
+        display: inline-block;
+        width: 33%;
+        font-size: 13px;
+        font-weight: 700;
+        color: #777;
+        padding-left: 5px;
+        vertical-align: middle
+    }
+
+    div.otByu div.FAcADc {
+        float: left;
+        display: inline-block;
+        min-width: 167px;
+        width: 16%;
+        height: 42px;
+        color: #222;
+        font-size: 13px;
+        line-height: 16px;
+        vertical-align: middle
+    }
+
+    div.otByu div.jYcx0e {
+        float: left;
+        display: inline-block;
+        min-width: 167px;
+        min-height: 41px;
+        vertical-align: middle;
+        width: 50%
+    }
+
+    div.otByu div.VN084b {
+        clear: both;
+        font-size: 13px;
+        line-height: 16px;
+        height: 20px;
+        text-align: left
+    }
+
+div.lOTAE {
+    height: 30px;
+    display: table-cell;
+    vertical-align: middle
+}
+
+div.otByu div.jYcx0e input[type="text"], div.otByu div.jYcx0e span.PnexQd {
+    width: 100%;
+    text-align: left
+}
+
+div.otByu div.jYcx0e select {
+    width: 100%;
+    height: 29px;
+    font-weight: 700;
+    font-size: 11px;
+    background-color: #eee;
+    line-height: 27px;
+    padding-left: 4px;
+    color: #333;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 2px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-border-radius: 1px
+}
+
+div.otByu div.cwqNnb span.BFlQMb {
+    color: #666;
+    font-family: monospace;
+    font-size: 11px;
+    white-space: pre
+}
+
+div.Qy8Xkb {
+    margin: 18px 0;
+    clear: both;
+    border-top: 1px solid #ebebeb
+}
+
+input.dUBGpe {
+    padding: 0 12px
+}
+
+div.otByu div.yIQOUb input.dUBGpe {
+    float: right;
+    margin: 10px 0
+}
